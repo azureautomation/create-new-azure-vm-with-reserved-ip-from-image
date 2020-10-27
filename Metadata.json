@@ -1,0 +1,20 @@
+{
+    "Author": "StanPast",
+    "ContentSize": 1302,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/create-new-azure-vm-with-reserved-ip-from-image/master/CreateVMstaticIP.ps1",
+    "DownloadCount": 884,
+    "Id": "Create-new-Azure-VM-with-0917cf89",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 571,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2015-1-14T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Create new Azure VM ($vm1) with reserved IP ($reservedIP) \u00a0from image ($ImageName) at specified region ($location) of specified size ($vmSize).The example code is for a Linux image that requires user ($linuxUser) and password ($Password) parameters.I suggest you use \"[console]::C",
+    "Title": "Create new Azure VM with reserved IP from image",
+    "UpdatedDate": "2015-1-14T00:00:00",
+    "Url": "https://github.com/azureautomation/create-new-azure-vm-with-reserved-ip-from-image",
+    "UserTags": "Windows Azure PowerShell"
+}
